@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter or epistle to all well-minded people in England, Ireland, Wales, and Scotland. Written by Lieut. Col. Joyce, for the undeceiving of the good people, July 7. 1651. That which moved me hereunto, was a consideration of the evils to come upon those that seek to obstruct justice; fearing least some would bring themselves into a snare, as others have formerly done in the like case.</title>
+            <author>Joyce, George, fl. 1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87385</idno>
+            <idno type="STC">Wing J1121</idno>
+            <idno type="STC">Thomason E637_3</idno>
+            <idno type="STC">ESTC R206586</idno>
+            <idno type="EEBO-CITATION">99865707</idno>
+            <idno type="PROQUEST">99865707</idno>
+            <idno type="VID">165895</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87385)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165895)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E637[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter or epistle to all well-minded people in England, Ireland, Wales, and Scotland. Written by Lieut. Col. Joyce, for the undeceiving of the good people, July 7. 1651. That which moved me hereunto, was a consideration of the evils to come upon those that seek to obstruct justice; fearing least some would bring themselves into a snare, as others have formerly done in the like case.</title>
+                  <author>Joyce, George, fl. 1647.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. and are to be sold on Addlinghil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 10th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165895:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 12 -->
+            <p>A LETTER OR EPISTLE TO All well-minded People in <hi>England, Ireland, Wales,</hi> and <hi>Scotland.</hi>
+            </p>
+            <p>Written By Lieut. Col. <hi>Joyce,</hi> for the undeceiving of the good People, <hi>July</hi> 7.1651.</p>
+            <p>That which moved me hereunto, was a conſideration of the evils to come upon thoſe that ſeek to obſtruct Juſtice; fearing leaſt ſome would bring themſelves into a ſnare, as others have formerly done in the like caſe.</p>
+            <q>
+               <l>Vain is the help of man.</l>
+               <l>Ariſe O God and let thine enemies be ſcattered.</l>
+               <l>Fear bringeth a ſnare upon the righteous man.</l>
+               <l>Watch and pray leaſt yea enter into temptation.</l>
+               <l>When I come, ſhall I finde faith on earth?</l>
+            </q>
+            <p>
+               <date>
+                  <add>July 10<hi rend="sup">th</hi>
+                  </add>
+               </date>
+               <hi>LONDON:</hi> Printed by <hi>J. C.</hi> and are to be ſold on Addlinghil. 1651.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:165895:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <opener>
+               <salute>Reader obſerve,</salute>
+            </opener>
+            <p>AN Itallian having found his enemy at an advantage, promiſed him if he would deny his faith, to ſave his life; he to ſave the one, denyed the other: which having done he ſtab'd him, rejoy<g ref="char:EOLhyphen"/>cing that by this, he had at one time taken revenge both of ſoul and body.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:165895:2"/>
+            <!-- PDF PAGE 13 -->
+            <head>A Letter or Epiſtle to all well-minded people in <hi>England, Ireland, Wales,</hi> and <hi>Scotland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Here being more then an ordinary neceſſity at this time to undeceive the people, and for the preventing of that diſtraction and diſturbance which might unhappily come up<g ref="char:EOLhyphen"/>on or in this City unawares; God having already born witneſs a<g ref="char:EOLhyphen"/>gainſt all ſorts of men that have directly or indirectly ſought to involve this Nation in to blood; the ſame God hath ſtretched out his mighty Arm, and hath a long time called for Juſtice and Judgement.</p>
+            <p>And no ſooner doth this Spirit appear in or a<g ref="char:EOLhyphen"/>mongſt the great ones, but immediately ariſeth a ſpi<g ref="char:EOLhyphen"/>rit of fear amongſt ſome, who lifteth up with one hand, and pulleth down with the other. Take heed who ever thou art, God is a ſtrict watchman, and marketh thy ways; and will finde thee out, though thou goeſt never ſo ſecretly to work to obſtruct Ju<g ref="char:EOLhyphen"/>ſtice, or delay the execution thereof.</p>
+            <p>My love is to mankinde, and that all ſhould turn from their evil ways and be ſaved; this doctrine I held forth to the late King, who juſtified himſelf,
+<pb n="2" facs="tcp:165895:3"/>
+               <!-- PDF PAGE 14 -->and ſtood upon his innocency; and dyed a Martyr or ſufferer for Truth (and his people) as he would have made the world believe.</p>
+            <p>The ſame ſpirit was in Mr. <hi>Nicholas Love</hi> (whoſe Tryal I have heard for the moſt part) and unleſs men had univerſally heard and ſeen his carriage and ſpirit, will hardly believe the truth thereof, when declared.</p>
+            <p>But this in the general, I am ſure he was many de<g ref="char:EOLhyphen"/>grees worſe ſpirited then the king, who had more plea for himſelf then Mr. <hi>Love</hi> had, would he have plead<g ref="char:EOLhyphen"/>ed or made uſe thereof; but his principle led him out to what he did,</p>
+            <p>And when I compare matter of Fact, and foreſee what is now come, and will come if God alone pre<g ref="char:EOLhyphen"/>vent not. I am able to make it appear that Mr. <hi>Love</hi>'s trayterous and bloody actings have been as bad as the late Kings, who loſt his head, and of almoſt as long a ſtanding as his was.</p>
+            <p>The wiſe man foreſeeth an evil and preventeth it, blood is a ſad thing to behold, when brought upon a Nation or people by Stratagems, or deſigning to ru<g ref="char:EOLhyphen"/>ine that poor handful of Gods people, who hath not at all delighted in blood, but prayed that they may live a peaceable and Godly life, under a civil Magiſtracy; much agreeable to the Scriptures mind, &amp; will of God.</p>
+            <p>But before I come to declare what I know of the Defign, and the depth, and antiquity thereof; of which Conſpiracy, the like was never heard of in our generation. I ſhall preſent you with my former ob<g ref="char:EOLhyphen"/>ſervations concerning the perſonal Treaty, and when the whole Myſtery ſhall be devulged, men will ſtand amazed; for the like was never in this world, nor in all the Hiſtories now extant, for ſo far as I am able to
+<pb n="3" facs="tcp:165895:3"/>
+               <!-- PDF PAGE 14 -->judge, I ſhall give you a hint, deſiring that it may ſuffice at preſent, and alſo deſire your patient waiting for the whole, when a Juſt ſeaſon cometh.</p>
+            <p>After the King was in the Armies Quarters, ſome proud hearted men were ambitions to be acquainted with him, and did oft preſs me to bring them to him, and through their importunity at laſt, did gratifie their deſire; but adviſed them to have a care, or elſe the King would be too hard for them; as it ſeems he was after a little while, as you may ſee by and by.</p>
+            <p>
+               <hi>Huntington, Hobſon, Tuledah,</hi> and others ſpake with the King, and immediately were lifted up, and nothing would ſerve them but a Perſonal Treaty with the King; and who muſt be the firſt moving cauſe of this paſ<g ref="char:EOLhyphen"/>ſage, but theſe men before mentioned, together with ſome others; they diſputed the lawfulneſs thereof, and brought Scripture; and at laſt reſolved upon it. And immediately upon their reſolution, ſome progreſs was made in the Petition at <hi>London</hi> and other places, by them and others; I thought it my duty to acquaint ſome or all the forementioned men, of what danger<g ref="char:EOLhyphen"/>ous conſequence it would be, and and plainly decla<g ref="char:EOLhyphen"/>red to them, it would be a means to divide the godly people, and break them in pieces, which were all of a piece before; and very unanimous.</p>
+            <p>But before this could be taken up again (as huſhed) the name <hi>Leveller</hi> was given out, and a report was made by (<hi>Henry Lilburn</hi>) that the Levellers would kill the King, and this aroſe upon the ſtopping of the Petition for a Perſonal Treaty; which was carrying on with great zeal, like this for Mr. <hi>Love,</hi> which may have a worſe effect if great care be not had, or the Provi<g ref="char:EOLhyphen"/>dence of God who is above all, who is able to quiet
+<pb n="4" facs="tcp:165895:4"/>
+               <!-- PDF PAGE 15 -->the ſtouteſt heart, and break in pieces the devices of men; who lean their ſhoulders to uphold that pillar of Antichriſt which God will throw down, and is now doing of it; therefore ye ſons of <hi>Jacob,</hi> take heed ye be not conſumed before you are aware of it (as ſome of the deſigners was in that deſign) and as a juſt judgement came upon ſome of the reſt ſince.<note place="margin">Obſerve.</note>
+            </p>
+            <p>No ſooner was the laſt I ſpake of, namely the Pe<g ref="char:EOLhyphen"/>tition, laid aſide or forgotten by that ſort of men cal<g ref="char:EOLhyphen"/>led Indendents, but they ſeeing the evil, being ſo groſly miſled, repented thereof.</p>
+            <p>But <hi>Sion</hi> Colledge men, and many other notorious and eminent men in this City, ſet on foot a Petition for a Perſonal Treaty, and nothing elſe would ſerve (but they muſt, and ſo they had it) and ſhould I ſay Mr. <hi>Love, Calamy, Aſh, Caſe, Viner,</hi> and many other ſit<g ref="char:EOLhyphen"/>ting in Synod, had a great hand in it, I ſhould do them little wrong; but ſhall ſay no more of that at pre<g ref="char:EOLhyphen"/>ſent, onely declare a little of what I know of old, as I before promiſed, and as much as I have always be<g ref="char:EOLhyphen"/>lieved, that God will not be mocked; but he will, as always he hath done, diſcover and deſtroy thoſe that will not appear for him; and bear witneſs and teſti<g ref="char:EOLhyphen"/>mony againſt unrighteous men, though in Parliament Army or people, I mean by laying them aſide (or o<g ref="char:EOLhyphen"/>ther puniſhment) as hereafter will more evidently appear.</p>
+            <p>Now for the Antiquity of the Deſign, and how God hath from time to time fought againſt it:</p>
+            <p>Firſt conſider a little after the Treaty at <hi>Uxbridge,</hi> where Maſter <hi>Love</hi> preached, and ſaid, <hi>It was as eaſie to reconcile God and the Devil together, as it was to reconcile the King and Parliament</hi> (which thing he himſelf hath
+<pb n="5" facs="tcp:165895:4"/>
+               <!-- PDF PAGE 15 -->now done, by what Spirit let the world judge: Some<g ref="char:EOLhyphen"/>time after this Treaty was over, a meeting was ap<g ref="char:EOLhyphen"/>pointed at <hi>Weſtminster;</hi> where the Scotiſh Commiſ<g ref="char:EOLhyphen"/>ſioners, and many then Members of Parliament were, where they did ſolemnly Vow before God, theſe things as followeth; <hi>viz.</hi> to indeavor to bring in the King, and to rule him by force; and to rule <hi>England</hi> by the ſame Law <hi>Scotland</hi> was governed; as I take it the words were theſe <hi>(By Lords and Barons.)</hi>
+            </p>
+            <p>And at the ſame time it was alſo agreed, that a certain number of the Houſe of Commons, whom they cal<g ref="char:EOLhyphen"/>led Factious men, ſhould be choſen out, and there heads cut off: Alſo a certain number of the City, and leading men of the Countrey choſen out, and hanged for examples, who were the ring leaders of that Party, and all the reſt baniſhed (which made me tremble:) but my God aſſured me at that time, the ſnare they laid to catch others, themſelves ſhould be taken in; or the pit they digged for others, themſelves ſhould fall into. And after this from time to time they met, ſometimes at Dr <hi>Gouge</hi>'s, other times elſewhere; and never left til they had moulded a Militia in the City, and hatched a Remonſtrance, and obtained many things, though in order to the fore-mentioned deſign; and at length brought it to what you now ſee, even an<g ref="char:EOLhyphen"/>other War, which <hi>England</hi> now feels, to her great coſt. Alſo another War is laid at home, and will ere long break out (if not timely prevented:) And as the King was in daily hopes of an Inſurrecti<g ref="char:EOLhyphen"/>on, by which he might probably had a deliverance; even ſo is it now: Take heed, my friends, delays are dangerous; and as you have judged ſome Petitions dangerous (this now on foot may be far more then
+<pb n="6" facs="tcp:165895:5"/>
+               <!-- PDF PAGE 16 -->thoſe; and tend more and more to divide the Godly, not onely in this City, but throughout <hi>England.</hi> And though I am not againſt Petitioning (but for it as much as any;) yet I can do no leſs but lay theſe things before you, as a ſmall parcel, picked out of three or four quier of Paper: And wherein I ſhall declare the whole, and all that I have known, ſeen, and heard of truth; being an attendant upon the Parliament, and as a Member of the Armies, obſerved Gods dealings with this generation, and particular men therein; and what I alſo believe and know will come to paſs, that ſo God alone may have all the Glory; and that no fleſh ſhould glory but in the Lord; alſo that men may take heed, and not to ſplit themſelves againſt that Rock, which is too hard for them, and will daſh all the Nations of the Earth in pieces; ſaying, Bring thoſe my enemies before me, that I may ſlay them.</p>
+            <p>And now let none that know the Lord, lean their ſhoulders, or put there ſtrength to uphold that Anti<g ref="char:EOLhyphen"/>chriſt, which is now falling, though it be like Chriſt.</p>
+            <p>Alſo take heed my dear friends and brethren, I mean the upright whereſoever, or of what Name or Title ſoever, that you ſin no more againſt your Light, but return to the Lord and repent; then he will heal thoſe that have back ſlided, and be a God and guide unto you, for ever and ever. So I take leave and reſt,</p>
+            <closer>
+               <signed>Englands true and faithful friend and ſervant, for impartial Juſtice till death. <hi>G. J.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="7" facs="tcp:165895:5"/>
+            <!-- PDF PAGE 16 -->
+            <head>POSTSCRIPT.</head>
+            <p>And becauſe I cannot leave the world in igno<g ref="char:EOLhyphen"/>rance, of what Deſignes have been upon the Weſt; God having my life in his own hands, though men cunningly ſeek to take it away; thought my ſelf bound in duty to God and my Country; to bear my witneſs, that when I come to die, I may have nothing elſe to do, but to die; and that for righ<g ref="char:EOLhyphen"/>teouſneſs onely.</p>
+            <p>And that the world may ſee I have taken notice of former ages; ſhall briefly relate as followeth.</p>
+            <p>A people being ingaged againſt a King for Ty<g ref="char:EOLhyphen"/>ranny, could not conquer him; his ſtrength be<g ref="char:EOLhyphen"/>ing too great. An active man, who by his honeſty, together with a ſmall ſtrength, then under his Command; accidentally came to the people, by which means the people conquered the King, and had Juſtice executed upon him.</p>
+            <p>A little after this, ſome great and wiſe men a<g ref="char:EOLhyphen"/>mong the people, endeavoured to work over this upright man to their party; that ſo they might have made themſelves as great as the King was be<g ref="char:EOLhyphen"/>fore. But he continued his integrity, and would not be won to unrighteouſneſs, to Tyranny. A de<g ref="char:EOLhyphen"/>bate aroſe what was beſt to be done with this man, ſome acknowledged he deſerved ſuch a gratuity for his pains, and hazard; that they were not able to reward him for his deſert. Others cunningly ſugge<g ref="char:EOLhyphen"/>ſted to take away his life, leſt his honeſty ſhould cauſe the people to fall in love with him; and if ſo of what dangerous concernment would this be to us: they knowing ſo much, conſulted a little while; and at laſt agreed to take away his life: A good re<g ref="char:EOLhyphen"/>ward.</p>
+            <p>
+               <pb n="8" facs="tcp:165895:6"/>
+               <!-- PDF PAGE 17 -->
+Now to the Deſigne.</p>
+            <p>One brought a Charge to the Honourable Coun<g ref="char:EOLhyphen"/>cel of State, againſt Lievtenant Collonel <hi>Reed,</hi> Governour of <hi>Pool,</hi> who was put out of his Go<g ref="char:EOLhyphen"/>vernmentand juſtly for ought I know; for he hath not as yet had a Tryal: though the Councel of State have granted many Orders for a juſt and le<g ref="char:EOLhyphen"/>gal Tryal, they being informed, he was a very honeſt godly man,</p>
+            <p>But the potency of one who threatned to ruine the ſaid Governour; hath, and ſtill doth endea<g ref="char:EOLhyphen"/>vour to carry on his Deſigne, not onely to ruine him, but many others alſo; and to get the whole Weſt into his own, and friends cuſtody.</p>
+            <p>And beginning too ſoon, could not do it that way he aimed at; and therefore hath found out away to anſwer his former deſign, by ſlighting the Garri<g ref="char:EOLhyphen"/>ſon of <hi>Pool,</hi> and getting Col. <hi>Hains</hi> his Regiment to be removed (which indeed is a very good work:) And had not the deſigners been almoſt per<g ref="char:EOLhyphen"/>ſwaded, they ſhould have removed: Lieutenant Col. <hi>Joyce</hi> out of the Ile of <hi>Portland,</hi> and put in another, that ſo they might have done their work. Now Lieut. Col. <hi>Joyce</hi> had never been ſo ſtruck at, if he had not known the deſign and the deſigners, which he hath along time done, and did what he could to prevent it, fearing blood was at the bot<g ref="char:EOLhyphen"/>tom thereof; at leaſt ſetting up a Scotiſh Presby<g ref="char:EOLhyphen"/>terian faction, by countenancing whatſoever came cunningly from the Prieſts of that County; For no ſooner had the Prieſts with others gotten out Lieut. Col. <hi>Reed,</hi> Governor of <hi>Pool,</hi> but immediately got in one <hi>Scut,</hi> a Towns-man, who was formerly laid
+<pb n="9" facs="tcp:165895:6"/>
+               <!-- PDF PAGE 17 -->aſide, for being againſt the Parliament and Ar<g ref="char:EOLhyphen"/>mies proceedings, in order to this Commonwealth; If I ſhould ſay he was caſhiered for perſecuting of Godly men, I ſhould do him no hurt: Part of this deſign was privately carried on by a potent man, to requite the Towns-men of <hi>Pool</hi> (who are for the moſt part Scotefi'd) for making of one Mr. <hi>Dennis Bond</hi>'s ſon Recorder of <hi>Pool.</hi>
+            </p>
+            <p>The forementioned potent man ſtill goeth on with his deſign, and did lately obtain a Commiſ<g ref="char:EOLhyphen"/>ſion for one <hi>Bingham,</hi> to be Governor of <hi>Gernſey.</hi>
+            </p>
+            <p>And as ſoon as <hi>Bingham</hi> was made Governor of that Iſland, Col. <hi>Hayns</hi> affirmed that it was enough to envite an enemy thither; others ſaid they never knew him fight: Moreover he was diſſatisfied with the Parliament and Armies juſt proceedings againſt the late King.</p>
+            <p>This was not all that mighty man did, for, he alſo obtained a Commiſſion for one Lieut. Col. <hi>Lacey,</hi> a man reputed no fighter, but a common tipler.; theſe men to be ſent to <hi>Gernſey,</hi> is not all.</p>
+            <p>But Major <hi>Harriſon</hi> muſt be ſent for away, though he be a man of an approved valor, and honeſty, truely fearing God.</p>
+            <p>I ſhall ſay little more at preſent, unleſs I ſhould be call'd upon to give the relation of theſe deſigns: And when I have more time, ſhall manifeſt unto the world, the whole deſign and drivers thereof at large. And how the great Deſigner was like to tare the hair from his head, when he could not have his will anſwered. And not long ſince threatned to cut our ſwords ſhorter, and many other abuſive words, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:165895:7"/>
+               <!-- PDF PAGE 18 -->
+The Agent of <hi>Dorſet</hi>-ſhire, whoſe name is <hi>Brag,</hi> ſon to the Re<g ref="char:EOLhyphen"/>ceiver General of the ſame County, a lewd deboyſt yong man: It was therefore deſired he might be put out, being unfit for that place, and a honeſt man put into his rome; it was alſo offered to Mr. <hi>Dennis Bond</hi> to do it, he being the onely man that put him in: This could not be done, though Lieutenant Col. <hi>Joyce,</hi> who is that Countryman, and oft times ſent to Mr. <hi>Bond</hi> about it, it being a kinſman of his own: The anſwer he had was, if any of the ſaid Country Gentlemen would ſay as much or deſire the ſame, he would do what he could in it.</p>
+            <p>Upon which Lieut. Col. <hi>Joyce</hi> ſent into the Country about the buſi<g ref="char:EOLhyphen"/>neſs, and had this anſwer as followeth.</p>
+            <div type="part">
+               <head>For his honored Friend Lieut. Col. <hi>Joyce,</hi> at London.</head>
+               <p>YOurs I received but cannot anſwer that expectation; for you know the power of the great Man is ſuch, that his wrath is counted as the roaring of a Lyon; what have been formerly, is now amended for ought I know. But the underſtandingſt fellow in our parts, if it were not for the great Mans rage, it were eaſie to have it te<g ref="char:EOLhyphen"/>ſtified; but I think their is another courſe to be taken, which is to con<g ref="char:EOLhyphen"/>ſider where it be fit, that the Son ſhould be the onely ſurveior of the Fathers actions, and to give an account thereof when they pleaſe. (it is a ſtrange kinde of Reformation) I ſay no more till I ſee you, which I hope will be within this ſeven days: Thus deſiring God to make more honeſt men, and to preſerve others that he hath ſo made: Is the earneſt deſire of him who is your faithful friend</p>
+               <closer>
+                  <signed>J. R.</signed>
+                  <dateline>
+                     <date>July 6, 1651.</date>
+                  </dateline>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
